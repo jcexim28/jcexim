@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/www.jcexim.com/static/css/main.c59cc657.css",
+    "main.js": "/www.jcexim.com/static/js/main.47ebc188.js",
+    "static/js/787.1ed74178.chunk.js": "/www.jcexim.com/static/js/787.1ed74178.chunk.js",
+    "index.html": "/www.jcexim.com/index.html",
+    "main.c59cc657.css.map": "/www.jcexim.com/static/css/main.c59cc657.css.map",
+    "main.47ebc188.js.map": "/www.jcexim.com/static/js/main.47ebc188.js.map",
+    "787.1ed74178.chunk.js.map": "/www.jcexim.com/static/js/787.1ed74178.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.47ebc188.js"
+  ]
+}
